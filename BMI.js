@@ -35,4 +35,4 @@ if (bmi < 18.5) {
 }
 
 // Display the BMI and health category
-console.log(`Your BMI is ${bmi.toFixed(2)}, and you are ${category}.`);
+console.log("Your BMI is"+" "+bmi.toFixed(2)+", and you are "+category);
