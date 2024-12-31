@@ -1,6 +1,6 @@
 # JS-conditionals-tasks-main
-/*** 
 ###1
+*** 
 BMI Calculator and Health Category
 
 Create a JavaScript program that calculates the Body Mass Index (BMI) and assigns a health category based on the BMI value. Use nested if-else statements to determine the health category.
@@ -11,14 +11,15 @@ Create a JavaScript program that calculates the Body Mass Index (BMI) and assign
     - BMI >=25 and BMI <= 29.9, you are overweight.
     - Otherwise, you are obese.
 
-*/
+***
 ###2
+***
 Free Drinks
     - Burger more than 500tk: free Coke
     - Else Coke: 30tk
-*/
-/***
+***
 ###3
+***
 Grade Calculator
 
 Create a simple JavaScript program that takes a student's score as input and returns their corresponding grade based on the following grading scale:
@@ -29,9 +30,9 @@ Create a simple JavaScript program that takes a student's score as input and ret
     D: 60-69
     F: 0-59
 
-***/
-/***
+***
 ###4
+***
 if you get more then 80 then inside your friend score. 
     If your friend get more than 80. then go for a lunch. 
     if your friend get below 80 but greater than or equal 60 then tell your friend, good luck next time. 
@@ -41,9 +42,9 @@ if you get less than 80 go to home and sleep and act sad
 
 Note: 
 use nested if-else-if-else
-*/
-/***
-###6
+***
+###5
+***
 you have two numbers in two variables, called: num1, num2
 
 now declare a variable called result. 
@@ -53,13 +54,12 @@ write a simple if-else.
 
 also, write it using ternary operator.
 
- */
- /***
-###7
+***
+###6
+***
 Ticket fare Calculator
     - Children (age < 10): free
     - Students get a 50% discount
     - Senior citizens (age >= 60) gets a 15% Discount
     - Otherwise Regular ticket fare 800 tk
-*/
-// Input: Age of the person and regular ticket fare
+***
